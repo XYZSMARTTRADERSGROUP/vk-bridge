@@ -5,7 +5,7 @@ edition = "2021"
 
 [dependencies]
 serde = { version = "1.0.208", features = ["derive"] }
-tokio = { version = "1.39.3", features = ["full"] }
+tokio = { version = "1.43.1", features = ["full"] }
 vkclient = "5.1.2"
 anyhow = "1.0.86"
 futures-util = "0.3.30"
